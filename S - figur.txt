@@ -37,7 +37,7 @@ public class Main {
             double halfPerimetr=(this.a+this.b+this.c)/2;
             return  Math.sqrt(halfPerimetr*(halfPerimetr-this.a)*(halfPerimetr-this.b)*(halfPerimetr-this.c));
         }
-a tut u nas master
+
 //OMG!!!!
 //upDete chek!END
     }
