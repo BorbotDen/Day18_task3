@@ -40,5 +40,6 @@ public class Main {
 
 //OMG!!!!
 //upDete chek!END
+Show GIT puch comand!
     }
 }
