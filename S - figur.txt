@@ -38,5 +38,6 @@ public class Main {
             return  Math.sqrt(halfPerimetr*(halfPerimetr-this.a)*(halfPerimetr-this.b)*(halfPerimetr-this.c));
         }
 //OMG!!!!
+//upDete chek!END
     }
 }
